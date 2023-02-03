@@ -1,0 +1,14 @@
+C:\Users\User\Desktop\16aritmetika\16aritmetika\obj\Debug\netcoreapp3.1\16aritmetika.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\16aritmetika\16aritmetika\obj\Debug\netcoreapp3.1\16aritmetika.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\16aritmetika\16aritmetika\obj\Debug\netcoreapp3.1\16aritmetika.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\16aritmetika\16aritmetika\obj\Debug\netcoreapp3.1\16aritmetika.AssemblyInfo.cs
+C:\Users\User\Desktop\16aritmetika\16aritmetika\obj\Debug\netcoreapp3.1\16aritmetika.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\16aritmetika\16aritmetika\bin\Debug\netcoreapp3.1\16aritmetika.exe
+C:\Users\User\Desktop\16aritmetika\16aritmetika\bin\Debug\netcoreapp3.1\16aritmetika.deps.json
+C:\Users\User\Desktop\16aritmetika\16aritmetika\bin\Debug\netcoreapp3.1\16aritmetika.runtimeconfig.json
+C:\Users\User\Desktop\16aritmetika\16aritmetika\bin\Debug\netcoreapp3.1\16aritmetika.runtimeconfig.dev.json
+C:\Users\User\Desktop\16aritmetika\16aritmetika\bin\Debug\netcoreapp3.1\16aritmetika.dll
+C:\Users\User\Desktop\16aritmetika\16aritmetika\bin\Debug\netcoreapp3.1\16aritmetika.pdb
+C:\Users\User\Desktop\16aritmetika\16aritmetika\obj\Debug\netcoreapp3.1\16aritmetika.dll
+C:\Users\User\Desktop\16aritmetika\16aritmetika\obj\Debug\netcoreapp3.1\16aritmetika.pdb
+C:\Users\User\Desktop\16aritmetika\16aritmetika\obj\Debug\netcoreapp3.1\16aritmetika.genruntimeconfig.cache
